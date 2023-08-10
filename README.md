@@ -1,4 +1,4 @@
-
+## Join my journey with Hard Dance Music and a cup of bubbletea
 <img src="https://github.com/Deepdive543443/Deepdive543443/blob/main/bar.gif"></img>
 <!--
 **Deepdive543443/Deepdive543443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
