@@ -3,4 +3,4 @@
 
 
 - AI/ML, Video Game, Hard Dance Music, Bubbletea
-- A Cybersecurity and AI student, looking for a position and improvement in ML development
+- A Cybersecurity and AI student
