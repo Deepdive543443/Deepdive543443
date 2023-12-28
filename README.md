@@ -1,6 +1,5 @@
 
 <img src="https://github.com/Deepdive543443/Deepdive543443/blob/main/bar.gif"></img>
 
-
-- AI/ML, Video Game, Hard Dance Music, Bubbletea
-- A Cybersecurity and AI student
+- A Computer Science, Cybersecurity, and AI student interest in low-level computing
+- Video Game, Hard Dance Music, Bubbletea
